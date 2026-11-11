@@ -29,7 +29,7 @@ export default function PlaceDetail() {
       <PlaceCard place={p} compact />
       {c && (
         <p className="muted small">
-          รูป: {c.author} · {c.license} · <a href={c.source}>แหล่งที่มา</a>
+          รูป: {c.author} · {c.license}{c.source && <> · <a href={c.source}>แหล่งที่มา</a></>}
         </p>
       )}
       <Link to="/places">← สถานที่ทั้งหมด</Link>
