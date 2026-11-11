@@ -119,6 +119,13 @@
       "author": "Mx. Granger",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:Xizhou_baba.jpg"
+    },
+    {
+      "file": "dl-xizhou-2.webp",
+      "title": "Xizhou baba",
+      "author": "RRRRRRLee",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/47096663@N06/6667118951"
     }
   ],
   "dl-rushan": [
@@ -165,6 +172,146 @@
       "author": "Alpha",
       "license": "CC BY-SA 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E7%B2%91%E7%B2%91_Lijiang_Ba_Ba_Bread_with_spring_onion_and_egg_-_street_vendor_CNY4.jpg"
+    },
+    {
+      "file": "lj-baba-2.webp",
+      "title": "Lijiang Street Vendor",
+      "author": "rduta",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/88175021@N00/3152737135"
+    }
+  ],
+  "dl-erkuai": [
+    {
+      "file": "dl-erkuai-1.webp",
+      "title": "Street food: Shao Erkuai",
+      "author": "zomya.co",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/161891711@N07/45177525044"
+    },
+    {
+      "file": "dl-erkuai-2.webp",
+      "title": "Street food: Shao Erkuai",
+      "author": "zomya.co",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/161891711@N07/30962599017"
+    }
+  ],
+  "lj-jidou": [
+    {
+      "file": "lj-jidou-1.webp",
+      "title": "旺旺秘制凉粉 Wang's Special Jelly - Happy Dumpling AUD6",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/10559879@N00/4624213118"
+    },
+    {
+      "file": "lj-jidou-2.webp",
+      "title": "旺旺秘制凉粉 Wang's Special Jelly - close-up - Happy Dumpling AUD6",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/10559879@N00/4623607595"
+    }
+  ],
+  "km-qiguo": [
+    {
+      "file": "km-qiguo-1.webp",
+      "title": "Qiguo chicken",
+      "author": "Kent Wang",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/27454212@N00/145963759"
+    }
+  ],
+  "sg-yak": [
+    {
+      "file": "sg-yak-1.webp",
+      "title": "Yak meat",
+      "author": "Linda DV",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/8981098@N07/16515263087"
+    }
+  ],
+  "sg-tea": [
+    {
+      "file": "sg-tea-1.webp",
+      "title": "Yak Butter Tea - Shuzheng Tibetan Village CNY5",
+      "author": "avlxyz",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/10559879@N00/2121526921"
+    },
+    {
+      "file": "sg-tea-2.webp",
+      "title": "tibetan butter tea",
+      "author": "preetamrai",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/51035566865@N01/25856671"
+    },
+    {
+      "file": "sg-tea-3.webp",
+      "title": "Li Jiang-Yak Butter Tea",
+      "author": "zgware",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/12364819@N08/2454185006"
+    },
+    {
+      "file": "sg-tea-4.webp",
+      "title": "Li Jiang-Yak Butter Tea",
+      "author": "zgware",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/12364819@N08/2453350003"
+    },
+    {
+      "file": "sg-tea-5.webp",
+      "title": "Li Jiang-Yak Butter Tea",
+      "author": "zgware",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/12364819@N08/2453349667"
+    }
+  ],
+  "sg-qingke": [
+    {
+      "file": "sg-qingke-1.webp",
+      "title": "酥油炒面——糌粑 butter tsampa",
+      "author": "jqn",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/48045641@N00/414231853"
+    },
+    {
+      "file": "sg-qingke-2.webp",
+      "title": "酥油炒面——糌粑 tsampa",
+      "author": "jqn",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/48045641@N00/414231877"
+    },
+    {
+      "file": "sg-qingke-3.webp",
+      "title": "拌炒面 tsampa",
+      "author": "jqn",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/48045641@N00/414231865"
+    },
+    {
+      "file": "sg-qingke-4.webp",
+      "title": "酥油炒面——糌粑 tsampa",
+      "author": "jqn",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/48045641@N00/414231871"
+    },
+    {
+      "file": "sg-qingke-5.webp",
+      "title": "Tibetan butter and the bowl of wood for the tsampa",
+      "author": "Richard Weil",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/44577016@N00/2930327011"
+    }
+  ],
+  "sg-yogurt": [
+    {
+      "file": "sg-yogurt-1.webp",
+      "title": "Yak Yogurt",
+      "author": "feserc",
+      "license": "CC BY 2.0",
+      "source": "https://www.flickr.com/photos/42602676@N00/3509087283"
     }
   ]
 }

@@ -37,3 +37,5 @@ node scripts/fetch-images.mjs   # โหลดรูปจาก Wikimedia Commo
 
 ## รูปอาหาร
 รูปอยู่ใน `public/images/food/` เครดิตอยู่ใน `src/data/food-credits.json` (แสดงในการ์ดอาหารแต่ละเมนู) ดึงจาก Wikimedia Commons ด้วย `scripts/fetch-food-images.mjs` (ถูกจำกัดอัตราเรียกมาก ช้า) ตอนนี้บางเมนูยังไม่มีรูปและแสดงกรอบสีพร้อมชื่อจีนแทน ใส่รูปเพิ่มได้โดยวางไฟล์ `.webp` แล้วเพิ่ม entry ใน `food-credits.json`
+
+รูปเพิ่มเติมดึงจาก Openverse (เฉพาะ CC0 / PDM / BY / BY-SA) ด้วย `scripts/openverse-candidates.mjs` (ดึงตัวเลือก) → คัดด้วยตา → `scripts/apply-candidates.mjs` (แปลงเป็น webp + ใส่เครดิต) บางรูปเป็นภาพบรรยากาศ/ของประเภทเดียวกัน ไม่ได้ถ่ายที่ร้านหรือสถานที่นั้นโดยตรง
