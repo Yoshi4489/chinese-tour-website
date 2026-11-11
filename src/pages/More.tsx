@@ -75,7 +75,7 @@ export default function More() {
           const p = places.find((x) => x.id === id)
           return (
             <li key={id}>
-              {p?.th ?? id}: {c.author} · {c.license} · <a href={c.source}>{c.title}</a>
+              {p?.th ?? id}: {c.author} · {c.license} · {c.source ? <a href={c.source}>{c.title}</a> : c.title}
             </li>
           )
         })}
