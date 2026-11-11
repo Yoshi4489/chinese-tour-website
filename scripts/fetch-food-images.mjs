@@ -37,14 +37,14 @@ fs.mkdirSync(OUT, { recursive: true })
 
 async function api(q) {
   const url =
-    'https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=20' +
+    'https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=50' +
     `&gsrsearch=${encodeURIComponent(q + ' filetype:bitmap')}&prop=imageinfo&iiprop=url|size|mime|extmetadata&iiurlwidth=640&format=json`
-  for (let i = 0; i < 4; i++) {
+  for (let i = 0; i < 6; i++) {
     try {
       const r = await fetch(url, { headers: { 'User-Agent': UA } })
       if (r.ok) return r.json()
     } catch {}
-    await sleep(8000 * (i + 1))
+    await sleep(Math.min(8000 * (i + 1), 30000))
   }
   return null
 }
@@ -70,7 +70,7 @@ for (const [id, { q, must }] of Object.entries(FOODS)) {
   for (const query of q) {
     if (have.length >= MAX) break
     const data = await api(query)
-    await sleep(1500)
+    await sleep(4000)
     const pages = Object.values(data?.query?.pages ?? {}).sort((a, b) => a.index - b.index)
     for (const p of pages) {
       if (have.length >= MAX) break
