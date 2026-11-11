@@ -3,6 +3,7 @@ import { food } from '../data/food'
 import { cities } from '../data/places'
 import type { CityId } from '../data/types'
 import DriverModal from '../components/DriverModal'
+import FoodGallery from '../components/FoodGallery'
 
 export default function FoodPage() {
   const [city, setCity] = useState<CityId>('kunming')
@@ -21,7 +22,9 @@ export default function FoodPage() {
       {food
         .filter((f) => f.city === city)
         .map((f) => (
-          <article className="card pad" key={f.id}>
+          <article className="card" key={f.id}>
+            <FoodGallery id={f.id} zh={f.zh} />
+            <div className="pad">
             <h3>
               {f.th} <span className="zh">{f.zh}</span>
             </h3>
@@ -33,6 +36,7 @@ export default function FoodPage() {
             <button className="btn small" onClick={() => setShow({ zh: f.zh, th: f.th })}>
               แสดงชื่อเมนู
             </button>
+            </div>
           </article>
         ))}
       {show && <DriverModal zh={show.zh} th={show.th} onClose={() => setShow(null)} />}
