@@ -59,18 +59,6 @@
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_China-Firefighting-Equipment-in-Old-Town-01.jpg"
   },
-  "jade-dragon": {
-    "title": "Lijiang Yunnan China-Stage-of-Jade-Dragon-Mountain-Theatre-01.jpg",
-    "author": "CEphoto, Uwe Aranas",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_China-Stage-of-Jade-Dragon-Mountain-Theatre-01.jpg"
-  },
-  "blue-moon": {
-    "title": "20140511 Lijiang Impression Show.jpg",
-    "author": "之乎",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20140511_Lijiang_Impression_Show.jpg"
-  },
   "black-dragon-pool": {
     "title": "Lijiang Yunnan Black-Dragon-Pool-01.jpg",
     "author": "CEphoto, Uwe Aranas",
@@ -94,5 +82,29 @@
     "author": "BrokenSphere",
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Roofs_of_Shangri-La_Old_Town_1.JPG"
+  },
+  "songzanlin": {
+    "title": "Ganden Sumtseling Monastery (21007338009).jpg",
+    "author": "Luca Casartelli",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ganden_Sumtseling_Monastery_(21007338009).jpg"
+  },
+  "shika": {
+    "title": "Shika Snow Mountain.jpg",
+    "author": "ChiralJon",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shika_Snow_Mountain.jpg"
+  },
+  "pudacuo": {
+    "title": "Potatso (Pudacuo) National Park, Diqing - panoramio.jpg",
+    "author": "Colin W",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Potatso_(Pudacuo)_National_Park,_Diqing_-_panoramio.jpg"
+  },
+  "baishuitai": {
+    "title": "1 baishuitai 2018 aerial pano 2018.jpg",
+    "author": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1_baishuitai_2018_aerial_pano_2018.jpg"
   }
 }
