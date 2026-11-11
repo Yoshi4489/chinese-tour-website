@@ -34,3 +34,6 @@ node scripts/fetch-images.mjs   # โหลดรูปจาก Wikimedia Commo
 รถไฟความเร็วสูงระหว่างเมืองและที่พักจองไว้แล้ว ไม่ได้รวมในงบ
 
 เครดิตรูปภาพ: Wikimedia Commons ตามสัญญาอนุญาตของแต่ละรูป ดูในหน้า "อื่น ๆ" ในแอป
+
+## รูปอาหาร
+รูปอยู่ใน `public/images/food/` เครดิตอยู่ใน `src/data/food-credits.json` (แสดงในการ์ดอาหารแต่ละเมนู) ดึงจาก Wikimedia Commons ด้วย `scripts/fetch-food-images.mjs` (ถูกจำกัดอัตราเรียกมาก ช้า) ตอนนี้บางเมนูยังไม่มีรูปและแสดงกรอบสีพร้อมชื่อจีนแทน ใส่รูปเพิ่มได้โดยวางไฟล์ `.webp` แล้วเพิ่ม entry ใน `food-credits.json`

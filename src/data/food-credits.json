@@ -1,13 +1,6 @@
 {
   "km-guoqiao": [
     {
-      "file": "km-guoqiao-1.webp",
-      "title": "Crossing-the-bridge noodles restaurant in Boston.jpg",
-      "author": "Chris Rycroft",
-      "license": "CC BY 2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Crossing-the-bridge_noodles_restaurant_in_Boston.jpg"
-    },
-    {
       "file": "km-guoqiao-2.webp",
       "title": "Crossing Bridge Rice-noodles in Xiangqi Yuan, Mengzi.jpg",
       "author": "鹿苑",
@@ -73,15 +66,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Mixian_Rice_Noodles_Being_Prepared_in_Copper_Pots.jpg"
     }
   ],
-  "km-qiguo": [],
   "km-xianhuabing": [
-    {
-      "file": "km-xianhuabing-1.webp",
-      "title": "New factory of Panxiangji (20240212152902).jpg",
-      "author": "N509FZ",
-      "license": "CC BY-SA 4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:New_factory_of_Panxiangji_(20240212152902).jpg"
-    },
     {
       "file": "km-xianhuabing-2.webp",
       "title": "糕点-Chinese Pastries.jpg",
@@ -134,9 +119,48 @@
       "author": "Mx. Granger",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:Xizhou_baba.jpg"
+    }
+  ],
+  "dl-rushan": [
+    {
+      "file": "dl-rushan-1.webp",
+      "title": "Dali Rushan.jpg",
+      "author": "rduta",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dali_Rushan.jpg"
     },
     {
-      "file": "dl-xizhou-2.webp",
+      "file": "dl-rushan-2.webp",
+      "title": "Nuodeng ham with Dali dried cheese at Hong 0871 Yunnan Cuisine, Beijing (20211030132854).jpg",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nuodeng_ham_with_Dali_dried_cheese_at_Hong_0871_Yunnan_Cuisine,_Beijing_(20211030132854).jpg"
+    },
+    {
+      "file": "dl-rushan-3.webp",
+      "title": "Xizhou Rushan.jpg",
+      "author": "Chris DeLacy",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Xizhou_Rushan.jpg"
+    },
+    {
+      "file": "dl-rushan-4.webp",
+      "title": "大理古城烧饵块、烤乳扇.jpg",
+      "author": "David Hall",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg"
+    },
+    {
+      "file": "dl-rushan-5.webp",
+      "title": "Ru shan.JPG",
+      "author": "Zhangmoon618",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ru_shan.JPG"
+    }
+  ],
+  "lj-baba": [
+    {
+      "file": "lj-baba-1.webp",
       "title": "丽江粑粑 Lijiang Ba Ba Bread with spring onion and egg - street vendor CNY4.jpg",
       "author": "Alpha",
       "license": "CC BY-SA 2.0",
