@@ -172,5 +172,29 @@
     "author": "ผู้ใช้ให้มา (ไม่ทราบผู้ถ่าย/ลิขสิทธิ์ ใช้ส่วนตัว)",
     "license": "ไม่ระบุ — ใช้ส่วนตัว",
     "source": ""
+  },
+  "butterfly-spring": {
+    "title": "Road to Butterfly Spring Dali",
+    "author": "Matthijs Koster",
+    "license": "CC BY 2.0",
+    "source": "https://www.flickr.com/photos/7510815@N02/718681047"
+  },
+  "yunshanping": {
+    "title": "Spruce Meadow / 云杉坪",
+    "author": "caitriana",
+    "license": "CC BY-SA 2.0",
+    "source": "https://www.flickr.com/photos/93221896@N00/28602032917"
+  },
+  "lugu-lake": {
+    "title": "Lugu lake",
+    "author": "RRRRRRLee",
+    "license": "CC BY-SA 2.0",
+    "source": "https://www.flickr.com/photos/47096663@N06/6666995395"
+  },
+  "shaxi": {
+    "title": "Yujin Bridge",
+    "author": "Rod Waddington",
+    "license": "CC BY-SA 2.0",
+    "source": "https://www.flickr.com/photos/64607715@N05/47049424394"
   }
 }
