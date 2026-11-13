@@ -37,6 +37,14 @@ export const TARGETS = {
   'p-lion-hill': ['Lijiang Wangu Tower', 'Lijiang old town view Lion Hill', 'Lijiang old town aerial'],
   'p-guishan': ['Guishan prayer wheel Shangri-La', 'Tortoise Hill Shangri-La', 'Dukezong prayer wheel'],
   'p-napahai': ['Napahai', 'Napahai wetland Shangri-La', 'Napa Lake Shangri-La'],
+  // ----- สถานที่เสริม (รอบที่ 2) -----
+  'p-butterfly-spring': ['Butterfly Spring Dali', 'Hudiequan Dali', 'Butterfly Spring Yunnan'],
+  'p-shaxi': ['Shaxi ancient town', 'Shaxi Yunnan', 'Shaxi Sideng Street', 'Yujin Bridge Shaxi'],
+  'p-mu-residence': ['Mu Residence Lijiang', 'Mufu Lijiang', 'Mu Palace Lijiang'],
+  'p-yunshanping': ['Yunshanping Lijiang', 'Spruce Meadow Jade Dragon Snow Mountain', 'Yunshan Ping'],
+  'p-lugu-lake': ['Lugu Lake', 'Lugu Lake Mosuo', 'Lugu Lake Yunnan'],
+  'p-baiji-temple': ['Baiji Temple Shangri-La', 'Hundred Chicken Temple', 'Baiji Monastery Shangri-La'],
+  'p-dongzhulin': ['Dongzhulin Monastery', 'Dongzhulin Deqin', 'Dongzhulin Temple'],
 }
 
 async function getJson(url) {

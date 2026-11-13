@@ -35,6 +35,7 @@ export const days: Day[] = [
       { time: '08:30', placeId: 'three-pagodas' },
       { time: '12:00', placeId: 'xizhou', note: 'กิน 喜洲粑粑 เป็นอาหารกลางวัน' },
       { time: '14:00', placeId: 'zhoucheng' },
+      { time: 'ถ้าเวลาเหลือ', placeId: 'butterfly-spring', optional: true, note: 'อยู่ทางเหนือแถวเส้นทางสีโจว–โจวเฉิง ไม่ใช่ช่วงผีเสื้อมารวมกัน ข้ามได้' },
       { time: '15:30', placeId: 'erhai', note: 'ปั่น/ขี่สกู๊ตเตอร์เลียบทะเลสาบ ดูพระอาทิตย์ตก' },
     ],
     warn: 'ถ้าเช่าสกู๊ตเตอร์ไฟฟ้าตั้งแต่เช้า (~60–100/วัน) ใช้ไปครบทุกจุดได้ ทั้งสีโจว–โจวเฉิง–ทางปั่น',
@@ -60,6 +61,7 @@ export const days: Day[] = [
     items: [
       { time: '07:00', placeId: 'jade-dragon' },
       { time: 'บ่าย', placeId: 'blue-moon' },
+      { time: 'ทางเลือกแทนธารน้ำแข็ง', placeId: 'yunshanping', optional: true, note: 'กระเช้า ~¥60 ถ้าเหนื่อยหรือกระเช้าธารน้ำแข็งเต็ม' },
       { time: 'เย็น', text: 'กลับเมืองเก่า กินหม้อไฟซี่โครงรมควัน พักผ่อน' },
     ],
     warn: 'ยอดสูง 4,500+ ม. หนาว พกออกซิเจน เสื้อดาวน์ น้ำ และขนม',
@@ -86,6 +88,7 @@ export const days: Day[] = [
       { time: 'ทางเลือก A', placeId: 'tiger-leaping', optional: true },
       { time: 'ทางเลือก B', placeId: 'lashihai', optional: true },
       { time: 'ทางเลือก C', text: 'พักผ่อน ซื้อของฝาก เดินเมืองเก่าลี่เจียง นั่งร้านกาแฟ', optional: true },
+      { time: 'ทางเลือก D', placeId: 'mu-residence', optional: true, note: 'อยู่ในเมืองเก่า ไปครึ่งเช้าแล้วพักต่อได้' },
     ],
     warn: 'ถ้าจะแวะเสือกระโจนวันที่ 19 ระหว่างเดินทางไปแชงกรีล่า ให้ใช้วันนี้พักผ่อนแทน',
   },
@@ -109,6 +112,7 @@ export const days: Day[] = [
     items: [
       { time: '09:00', placeId: 'songzanlin' },
       { time: 'บ่าย', placeId: 'dukezong', note: 'เดินช้อปปิ้ง/ดูเมืองเก่าตามสบาย' },
+      { time: 'บ่ายแก่', placeId: 'baiji-temple', optional: true, note: 'อยู่เนินหลังเมืองเก่า เดินเบา ๆ' },
     ],
   },
   {
@@ -130,6 +134,7 @@ export const days: Day[] = [
     items: [
       { time: 'ทางเลือก A', placeId: 'pudacuo', optional: true },
       { time: 'ทางเลือก B', placeId: 'napahai', optional: true },
+      { time: 'ทางเลือก C (ไกล)', placeId: 'dongzhulin', optional: true, note: 'ใช้ทั้งวันและค่าเดินทางสูง ไม่แนะนำถ้าเหนื่อย' },
     ],
   },
   {
